@@ -14,7 +14,7 @@
           <mxGeometry x="20" y="236" width="236" height="67" as="geometry" />
         </mxCell>
         <mxCell id="XhRfsrQFFVNUeb-jE3jn-4" value="电脑与机械手通信（arduino&#xa;通信连接）" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="306" y="236" width="259" height="67" as="geometry" />
+          <mxGeometry x="310" y="236" width="259" height="67" as="geometry" />
         </mxCell>
         <mxCell id="XhRfsrQFFVNUeb-jE3jn-5" value="机械手执行动作" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="349" y="352" width="172" height="49" as="geometry" />
