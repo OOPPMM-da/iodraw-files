@@ -1,0 +1,49 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="fNfWc7Oehc2wWsOXkzpy">
+    <mxGraphModel dx="1434" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XhRfsrQFFVNUeb-jE3jn-1" value="摄像头采集" style="whiteSpace=wrap;strokeWidth=2;fontFamily=times new;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dtimes%2Bnew;" vertex="1" parent="1">
+          <mxGeometry x="217" y="20" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XhRfsrQFFVNUeb-jE3jn-2" value="Opencv处理（手势识别+&#xa;数字判断）" style="whiteSpace=wrap;strokeWidth=2;fontFamily=times new;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dtimes%2Bnew;" vertex="1" parent="1">
+          <mxGeometry x="170" y="119" width="233" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="XhRfsrQFFVNUeb-jE3jn-3" value="电脑屏幕实时显示（识别&#xa;的数字的结果）" style="whiteSpace=wrap;strokeWidth=2;fontFamily=times new;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dtimes%2Bnew;" vertex="1" parent="1">
+          <mxGeometry x="20" y="236" width="236" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="XhRfsrQFFVNUeb-jE3jn-4" value="电脑与机械手通信（arduino&#xa;通信连接）" style="whiteSpace=wrap;strokeWidth=2;fontFamily=times new;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dtimes%2Bnew;" vertex="1" parent="1">
+          <mxGeometry x="306" y="236" width="259" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="XhRfsrQFFVNUeb-jE3jn-5" value="机械手执行动作" style="whiteSpace=wrap;strokeWidth=2;fontFamily=times new;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dtimes%2Bnew;" vertex="1" parent="1">
+          <mxGeometry x="349" y="352" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XhRfsrQFFVNUeb-jE3jn-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=times new;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dtimes%2Bnew;" edge="1" parent="1" source="XhRfsrQFFVNUeb-jE3jn-1" target="XhRfsrQFFVNUeb-jE3jn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XhRfsrQFFVNUeb-jE3jn-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=times new;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dtimes%2Bnew;" edge="1" parent="1" source="XhRfsrQFFVNUeb-jE3jn-2" target="XhRfsrQFFVNUeb-jE3jn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="138" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XhRfsrQFFVNUeb-jE3jn-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=times new;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dtimes%2Bnew;" edge="1" parent="1" source="XhRfsrQFFVNUeb-jE3jn-2" target="XhRfsrQFFVNUeb-jE3jn-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XhRfsrQFFVNUeb-jE3jn-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontFamily=times new;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dtimes%2Bnew;" edge="1" parent="1" source="XhRfsrQFFVNUeb-jE3jn-4" target="XhRfsrQFFVNUeb-jE3jn-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
