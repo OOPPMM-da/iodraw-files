@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-2" value="Arduino UNo串口接收与PWM输出" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-4" value="五自由度机械手拇指/食指/中指无名指/小指" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="125" y="370" width="150" height="60" as="geometry" />
