@@ -53,19 +53,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-16" value="5帧滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-18" target="u6EP5AQPTAsTC_Vtxcc_-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-18" value="判断结果是否稳定1秒" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-20" target="u6EP5AQPTAsTC_Vtxcc_-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-20" value="生成机械手动作只发送变化指合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-22" target="u6EP5AQPTAsTC_Vtxcc_-24">
           <mxGeometry relative="1" as="geometry" />
