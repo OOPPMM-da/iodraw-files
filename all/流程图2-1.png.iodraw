@@ -43,11 +43,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BTot2SJTTZZ4AdheoD-7-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=14;" edge="1" parent="1" source="BTot2SJTTZZ4AdheoD-7-4" target="BTot2SJTTZZ4AdheoD-7-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BTot2SJTTZZ4AdheoD-7-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=宋体;fontSize=14;" edge="1" parent="1" source="BTot2SJTTZZ4AdheoD-7-5" target="BTot2SJTTZZ4AdheoD-7-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -61,6 +56,12 @@
         <mxCell id="BTot2SJTTZZ4AdheoD-7-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontFamily=宋体;fontSize=14;" edge="1" parent="1" source="BTot2SJTTZZ4AdheoD-7-7" target="BTot2SJTTZZ4AdheoD-7-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BTot2SJTTZZ4AdheoD-7-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="440" as="sourcePoint" />
+            <mxPoint x="210" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
