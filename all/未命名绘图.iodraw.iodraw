@@ -23,10 +23,10 @@
           <mxGeometry x="25" y="480" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="BTot2SJTTZZ4AdheoD-7-7" value="五路PWM舵机驱动&#xa;拇指/食指/中指/无名指/小指" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="23" y="737" width="254" height="84" as="geometry" />
+          <mxGeometry x="24" y="570" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="BTot2SJTTZZ4AdheoD-7-8" value="仿生机械手动作复现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="48" y="871" width="204" height="49" as="geometry" />
+          <mxGeometry x="49" y="670" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BTot2SJTTZZ4AdheoD-7-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BTot2SJTTZZ4AdheoD-7-1" target="BTot2SJTTZZ4AdheoD-7-2">
           <mxGeometry relative="1" as="geometry">
