@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-2" value="初始化串口COM8波特率9600" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-4" target="u6EP5AQPTAsTC_Vtxcc_-6">
           <mxGeometry relative="1" as="geometry" />
@@ -70,8 +70,14 @@
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-20" value="生成机械手动作只发送变化指合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-22" target="u6EP5AQPTAsTC_Vtxcc_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-22" value="串口发送控制指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-24" value="显示识别画面，按q退出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
