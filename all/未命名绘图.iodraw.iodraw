@@ -8,16 +8,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-1" value="PC上位机&lt;div style=&quot;font-size: 14px;&quot;&gt;Python+OpenCV&lt;div style=&quot;font-size: 14px;&quot;&gt;MediaPipe手势识别&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="100" y="90" width="200" height="60" as="geometry" />
+          <mxGeometry x="130" y="90" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=宋体;" edge="1" parent="1" source="LTsDCyZgAOoRUKbeSKd0-2" target="LTsDCyZgAOoRUKbeSKd0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-2" value="Arduino UNo串口接收与PWM输出" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="140" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-4" value="五自由度机械手拇指/食指/中指无名指/小指" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="125" y="370" width="150" height="60" as="geometry" />
+          <mxGeometry x="155" y="370" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-6" value="拇指舵机 D3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="90" width="120" height="40" as="geometry" />
