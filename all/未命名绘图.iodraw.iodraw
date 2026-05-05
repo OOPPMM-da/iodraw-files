@@ -76,6 +76,15 @@
         <mxCell id="xvBRBkuxu5IGzXIb176B-24" value="返回主循环" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="640" as="sourcePoint" />
+            <mxPoint x="290" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
