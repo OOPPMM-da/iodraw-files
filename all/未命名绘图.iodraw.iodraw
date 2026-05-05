@@ -1,82 +1,82 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="kevWLUF9S_Rj6byOkVLD">
-    <mxGraphModel dx="1687" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-1" target="u6EP5AQPTAsTC_Vtxcc_-2">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-1" target="u6EP5AQPTAsTC_Vtxcc_-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-1" value="程序开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-1" value="程序开始" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-2" target="u6EP5AQPTAsTC_Vtxcc_-4">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-2" target="u6EP5AQPTAsTC_Vtxcc_-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-2" value="初始化串口COM8波特率9600" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-2" value="初始化串口COM8波特率9600" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="110" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-4" target="u6EP5AQPTAsTC_Vtxcc_-6">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-4" target="u6EP5AQPTAsTC_Vtxcc_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-4" value="初始化MediaPipe Handsmax_num_hands=1，检测阈值0." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-4" value="初始化MediaPipe Handsmax_num_hands=1，检测阈值0." style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-6" target="u6EP5AQPTAsTC_Vtxcc_-8">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-6" target="u6EP5AQPTAsTC_Vtxcc_-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-6" value="打开摄像头并读取视频帧" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-6" value="打开摄像头并读取视频帧" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="110" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-8" target="u6EP5AQPTAsTC_Vtxcc_-10">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-8" target="u6EP5AQPTAsTC_Vtxcc_-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-8" value="图像镜像翻转，BGR转RGB" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-8" value="图像镜像翻转，BGR转RGB" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="110" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-10" target="u6EP5AQPTAsTC_Vtxcc_-12">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-10" target="u6EP5AQPTAsTC_Vtxcc_-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-10" value="&lt;div&gt;MediaPipe检测手部&lt;/div&gt;&lt;div&gt;获取21个关键点&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-10" value="&lt;div&gt;MediaPipe检测手部&lt;/div&gt;&lt;div&gt;获取21个关键点&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="110" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-12" value="计算手指关节角度判断五指伸展状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-12" value="计算手指关节角度判断五指伸展状态" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-14" target="u6EP5AQPTAsTC_Vtxcc_-16">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-14" target="u6EP5AQPTAsTC_Vtxcc_-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-14" value="数字手势规则匹配输出0~9或?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-14" value="数字手势规则匹配输出0~9或?" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-16" target="u6EP5AQPTAsTC_Vtxcc_-18">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-16" target="u6EP5AQPTAsTC_Vtxcc_-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-16" value="5帧滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-16" value="5帧滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-18" target="u6EP5AQPTAsTC_Vtxcc_-20">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-18" target="u6EP5AQPTAsTC_Vtxcc_-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-18" value="判断结果是否稳定1秒" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-18" value="判断结果是否稳定1秒" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="430" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-20" target="u6EP5AQPTAsTC_Vtxcc_-22">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-20" target="u6EP5AQPTAsTC_Vtxcc_-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-20" value="生成机械手动作只发送变化指合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-20" value="生成机械手动作只发送变化指合" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="430" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-22" target="u6EP5AQPTAsTC_Vtxcc_-24">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-22" target="u6EP5AQPTAsTC_Vtxcc_-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-22" value="串口发送控制指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-22" value="串口发送控制指令" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="430" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-24" value="显示识别画面，按q退出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-24" value="显示识别画面，按q退出" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="430" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-12" target="u6EP5AQPTAsTC_Vtxcc_-14">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-12" target="u6EP5AQPTAsTC_Vtxcc_-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="670" as="sourcePoint" />
             <mxPoint x="320" y="620" as="targetPoint" />
