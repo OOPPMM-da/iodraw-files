@@ -52,8 +52,20 @@
         <mxCell id="xvBRBkuxu5IGzXIb176B-14" value="读取字符并缓存" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-16" target="xvBRBkuxu5IGzXIb176B-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-16" value="收到换行符后解析指合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-18" target="xvBRBkuxu5IGzXIb176B-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-18" value="startMove排队启动设置80ms后动间隔" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-20" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
