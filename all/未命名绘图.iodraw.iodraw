@@ -10,8 +10,14 @@
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-1" value="程序开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-2" target="u6EP5AQPTAsTC_Vtxcc_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-2" value="初始化串口COM8波特率9600" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-4" value="初始化MediaPipe Handsmax_num_hands=1，检测阈值0." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
