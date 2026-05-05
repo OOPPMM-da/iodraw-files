@@ -74,10 +74,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-22" value="串口发送控制指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-24" value="显示识别画面，按q退出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1740" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
