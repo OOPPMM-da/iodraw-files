@@ -10,8 +10,14 @@
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-1" value="PC上位机&lt;div&gt;Python+OpenCV&lt;div&gt;MediaPipe手势识别&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="90" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LTsDCyZgAOoRUKbeSKd0-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LTsDCyZgAOoRUKbeSKd0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTsDCyZgAOoRUKbeSKd0-2" target="LTsDCyZgAOoRUKbeSKd0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTsDCyZgAOoRUKbeSKd0-2" value="Arduino UNo串口接收与PWM输出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTsDCyZgAOoRUKbeSKd0-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
