@@ -65,13 +65,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-20" value="beginMove开始转动设置方向和运行时间" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="420" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="330" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=14;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-22" target="xvBRBkuxu5IGzXIb176B-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-22" value="millis非阻塞计时到达时间后写90停止" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="420" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="410" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-24" value="返回主循环" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
