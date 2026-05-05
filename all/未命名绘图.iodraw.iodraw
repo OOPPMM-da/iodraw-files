@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-10" value="循环更新五根手指状态" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="120" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="440" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-12" value="判断是否有串口数据" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="120" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="525" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=14;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-14" target="xvBRBkuxu5IGzXIb176B-16">
           <mxGeometry relative="1" as="geometry" />
