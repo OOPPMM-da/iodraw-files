@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-2" value="初始化串口9600" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-4" target="xvBRBkuxu5IGzXIb176B-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-4" value="五个舵机attach绑定D3/D2/D5/D8/D6&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-6" target="xvBRBkuxu5IGzXIb176B-8">
           <mxGeometry relative="1" as="geometry" />
@@ -70,8 +70,14 @@
         <mxCell id="xvBRBkuxu5IGzXIb176B-20" value="beginMove开始转动设置方向和运行时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xvBRBkuxu5IGzXIb176B-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xvBRBkuxu5IGzXIb176B-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-22" target="xvBRBkuxu5IGzXIb176B-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-22" value="millis非阻塞计时到达时间后写90停止" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-24" value="返回主循环" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
