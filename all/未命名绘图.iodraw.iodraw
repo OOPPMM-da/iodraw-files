@@ -11,16 +11,16 @@
           <mxGeometry x="50.5" y="90" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BTot2SJTTZZ4AdheoD-7-3" value="Python上位机程序处理&#xa;OpenCV读取视频帧、MediaPipe检测关键点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="22" y="218" width="255" height="84" as="geometry" />
+          <mxGeometry x="23" y="160" width="255" height="84" as="geometry" />
         </mxCell>
         <mxCell id="BTot2SJTTZZ4AdheoD-7-4" value="数字手势识别算法&#xa;角度判断、规则匹配、滑动窗口滤波" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="24" y="352" width="252" height="84" as="geometry" />
+          <mxGeometry x="24" y="260" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="BTot2SJTTZZ4AdheoD-7-5" value="串口通信模块&#xa;COM口、9600bps、发送T/M/R/P指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="486" width="259" height="84" as="geometry" />
+          <mxGeometry x="21" y="370" width="259" height="84" as="geometry" />
         </mxCell>
         <mxCell id="BTot2SJTTZZ4AdheoD-7-6" value="Arduino UNO下位机&#xa;指令解析与非阻塞定时控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="24" y="621" width="252" height="67" as="geometry" />
+          <mxGeometry x="25" y="480" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="BTot2SJTTZZ4AdheoD-7-7" value="五路PWM舵机驱动&#xa;拇指/食指/中指/无名指/小指" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="23" y="737" width="254" height="84" as="geometry" />
