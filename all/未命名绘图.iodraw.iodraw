@@ -28,6 +28,9 @@
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-8" value="中指舵机 D5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LTsDCyZgAOoRUKbeSKd0-9" value="无名指舵机 D8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
