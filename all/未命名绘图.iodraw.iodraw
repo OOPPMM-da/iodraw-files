@@ -35,7 +35,7 @@
           <mxGeometry x="414" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-11" value="外部5V大电流电源VCC供电，GND共地" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="700" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="LTsDCyZgAOoRUKbeSKd0-2" target="LTsDCyZgAOoRUKbeSKd0-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -87,7 +87,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTsDCyZgAOoRUKbeSKd0-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" target="LTsDCyZgAOoRUKbeSKd0-6">
+        <mxCell id="LTsDCyZgAOoRUKbeSKd0-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LTsDCyZgAOoRUKbeSKd0-11" target="LTsDCyZgAOoRUKbeSKd0-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="250" as="sourcePoint" />
             <mxPoint x="760" y="110" as="targetPoint" />
@@ -107,7 +107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTsDCyZgAOoRUKbeSKd0-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" target="LTsDCyZgAOoRUKbeSKd0-8">
+        <mxCell id="LTsDCyZgAOoRUKbeSKd0-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LTsDCyZgAOoRUKbeSKd0-11" target="LTsDCyZgAOoRUKbeSKd0-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="250" as="sourcePoint" />
             <mxPoint x="770" y="360" as="targetPoint" />
@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTsDCyZgAOoRUKbeSKd0-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" target="LTsDCyZgAOoRUKbeSKd0-9">
+        <mxCell id="LTsDCyZgAOoRUKbeSKd0-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LTsDCyZgAOoRUKbeSKd0-11" target="LTsDCyZgAOoRUKbeSKd0-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="250" as="sourcePoint" />
             <mxPoint x="830" y="370" as="targetPoint" />
