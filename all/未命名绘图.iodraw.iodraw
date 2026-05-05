@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-16" value="5帧滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-18" target="u6EP5AQPTAsTC_Vtxcc_-20">
           <mxGeometry relative="1" as="geometry" />
