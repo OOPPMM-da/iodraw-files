@@ -40,8 +40,14 @@
         <mxCell id="xvBRBkuxu5IGzXIb176B-10" value="循环更新五根手指状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xvBRBkuxu5IGzXIb176B-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xvBRBkuxu5IGzXIb176B-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-12" target="xvBRBkuxu5IGzXIb176B-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-12" value="判断是否有串口数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-14" value="读取字符并缓存" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
