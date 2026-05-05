@@ -46,8 +46,20 @@
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-12" value="计算手指关节角度判断五指伸展状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-14" target="u6EP5AQPTAsTC_Vtxcc_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-14" value="数字手势规则匹配输出0~9或?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-16" target="u6EP5AQPTAsTC_Vtxcc_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-16" value="5帧滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-18" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
