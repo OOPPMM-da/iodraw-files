@@ -28,8 +28,20 @@
         <mxCell id="xvBRBkuxu5IGzXIb176B-6" value="舵机写入90，进入停止状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-8" target="xvBRBkuxu5IGzXIb176B-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-8" value="&lt;div&gt;初始化Finger结构体moving=false, waiting=fa&lt;span style=&quot;background-color: initial;&quot;&gt;lse&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-10" target="xvBRBkuxu5IGzXIb176B-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-10" value="循环更新五根手指状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xvBRBkuxu5IGzXIb176B-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
