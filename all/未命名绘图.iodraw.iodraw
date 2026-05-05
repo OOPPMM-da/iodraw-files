@@ -22,8 +22,20 @@
         <mxCell id="u6EP5AQPTAsTC_Vtxcc_-4" value="初始化MediaPipe Handsmax_num_hands=1，检测阈值0." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="310" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-6" target="u6EP5AQPTAsTC_Vtxcc_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-6" value="打开摄像头并读取视频帧" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6EP5AQPTAsTC_Vtxcc_-8" target="u6EP5AQPTAsTC_Vtxcc_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-8" value="图像镜像翻转，BGR转RGB" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u6EP5AQPTAsTC_Vtxcc_-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
