@@ -62,22 +62,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-18" value="startMove排队启动设置80ms后动间隔" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-20" target="xvBRBkuxu5IGzXIb176B-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-20" value="beginMove开始转动设置方向和运行时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1440" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xvBRBkuxu5IGzXIb176B-22" target="xvBRBkuxu5IGzXIb176B-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-22" value="millis非阻塞计时到达时间后写90停止" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1580" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvBRBkuxu5IGzXIb176B-24" value="返回主循环" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1720" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
