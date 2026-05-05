@@ -31,6 +31,12 @@
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-9" value="无名指舵机 D8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LTsDCyZgAOoRUKbeSKd0-10" value="小指舵机 D6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTsDCyZgAOoRUKbeSKd0-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
