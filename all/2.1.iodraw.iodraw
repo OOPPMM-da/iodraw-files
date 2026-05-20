@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1nyTpWx8jkkHos1PNWOi-9" value="用户数字手势输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1nyTpWx8jkkHos1PNWOi-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1nyTpWx8jkkHos1PNWOi-11" target="1nyTpWx8jkkHos1PNWOi-13">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="90" y="430" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1nyTpWx8jkkHos1PNWOi-15" value="数字手势识别算法角度判断、规则匹配、滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="510" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
