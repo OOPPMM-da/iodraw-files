@@ -43,6 +43,21 @@
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-12" value="判断是否有串口数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-14" target="OavSpFnUl7ZkU5SKVaGW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-14" value="读取字符并缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-15" target="OavSpFnUl7ZkU5SKVaGW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-15" value="收到换行符后解析指合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-17" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
