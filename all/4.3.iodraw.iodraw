@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-12" value="判断是否有串口数据" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="434" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="270" width="124" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-14" target="OavSpFnUl7ZkU5SKVaGW-15">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-15" target="OavSpFnUl7ZkU5SKVaGW-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OavSpFnUl7ZkU5SKVaGW-15" value="收到换行符后解析指合" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-15" value="收到换行符后&lt;div&gt;解析指合&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="434" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-17" target="OavSpFnUl7ZkU5SKVaGW-19">
