@@ -53,13 +53,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-15" value="5帧滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0B4PVKXgRsFhbuPMbvrk-17" target="0B4PVKXgRsFhbuPMbvrk-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-17" value="判断结果是否稳定1秒" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0B4PVKXgRsFhbuPMbvrk-19" target="0B4PVKXgRsFhbuPMbvrk-21">
           <mxGeometry relative="1" as="geometry" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-21" value="串口发送控制指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0B4PVKXgRsFhbuPMbvrk-23" target="0B4PVKXgRsFhbuPMbvrk-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-23" value="显示识别画面，按q退出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="760" width="120" height="60" as="geometry" />
