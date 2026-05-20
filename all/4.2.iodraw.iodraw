@@ -28,8 +28,14 @@
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-6" value="打开摄像头并读取视频帧" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0B4PVKXgRsFhbuPMbvrk-8" target="0B4PVKXgRsFhbuPMbvrk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-8" value="图像镜像翻转&lt;div&gt;BGR转RGB&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-10" value="MediaPipe检测手部获取21个关键点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
