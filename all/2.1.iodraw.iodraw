@@ -22,8 +22,8 @@
         <mxCell id="1nyTpWx8jkkHos1PNWOi-11" value="USB摄像头采集图像" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="1nyTpWx8jkkHos1PNWOi-13" value="Python上位机程序处理0pencv读职视频帧、IediaPipe检测关键点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
