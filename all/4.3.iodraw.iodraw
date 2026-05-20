@@ -67,8 +67,8 @@
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-19" value="beginMove开始转动设置方向和运行时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OavSpFnUl7ZkU5SKVaGW-21" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-21" value="millis非塞计时到达时间后写90停止" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
