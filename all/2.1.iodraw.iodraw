@@ -34,8 +34,8 @@
         <mxCell id="1nyTpWx8jkkHos1PNWOi-15" value="数字手势识别算法角度判断、规则匹配、滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="360" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-17" value="串口通信模块CoM9600bps、发送TMI/R/P指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="1nyTpWx8jkkHos1PNWOi-17" value="串口通信模块COM口、9600bps、发送T/I/M/R/P指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="500" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
