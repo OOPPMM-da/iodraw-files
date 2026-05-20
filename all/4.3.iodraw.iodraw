@@ -67,14 +67,13 @@
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-19" value="beginMove开始转动设置方向和运行时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OavSpFnUl7ZkU5SKVaGW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-21" target="OavSpFnUl7ZkU5SKVaGW-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-21" value="millis非塞计时到达时间后写90停止" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OavSpFnUl7ZkU5SKVaGW-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
