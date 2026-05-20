@@ -52,8 +52,8 @@
         <mxCell id="1nyTpWx8jkkHos1PNWOi-21" value="五路PWM舵机驱动拇指/食指/中指/无名指/小指" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="1nyTpWx8jkkHos1PNWOi-23" value="仿生机械手动作复现" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
