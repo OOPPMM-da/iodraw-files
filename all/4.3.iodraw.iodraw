@@ -55,8 +55,14 @@
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-15" value="收到换行符后解析指合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-17" target="OavSpFnUl7ZkU5SKVaGW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-17" value="startMove排队启动设置80ms后动间隔" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-19" value="beginMove开始转动设置方向和运行时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
