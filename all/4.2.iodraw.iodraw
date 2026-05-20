@@ -34,8 +34,14 @@
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-8" value="图像镜像翻转&lt;div&gt;BGR转RGB&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0B4PVKXgRsFhbuPMbvrk-10" target="0B4PVKXgRsFhbuPMbvrk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-10" value="MediaPipe检测手部获取21个关键点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-12" value="计算手指关节角度判断五指伸展状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
