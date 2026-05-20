@@ -4,11 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0B4PVKXgRsFhbuPMbvrk-1" target="0B4PVKXgRsFhbuPMbvrk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0B4PVKXgRsFhbuPMbvrk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0B4PVKXgRsFhbuPMbvrk-2" target="0B4PVKXgRsFhbuPMbvrk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-2" value="初始化串口COM8&lt;div&gt;波特率9600&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
