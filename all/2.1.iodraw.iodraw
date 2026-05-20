@@ -40,8 +40,8 @@
         <mxCell id="1nyTpWx8jkkHos1PNWOi-17" value="串口通信模块COM口、9600bps、发送T/I/M/R/P指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-19" value="Arduino 0下位机,指令解析与非阻塞定时控制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="580" width="140" height="60" as="geometry" />
+        <mxCell id="1nyTpWx8jkkHos1PNWOi-19" value="Arduino UNO下位机&lt;div&gt;指令解析与非阻塞定时控制&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="525" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
