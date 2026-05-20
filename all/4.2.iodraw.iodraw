@@ -65,22 +65,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-19" value="生成机械手动作只发送变化指合" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0B4PVKXgRsFhbuPMbvrk-21" target="0B4PVKXgRsFhbuPMbvrk-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-21" value="串口发送控制指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0B4PVKXgRsFhbuPMbvrk-23" target="0B4PVKXgRsFhbuPMbvrk-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-23" value="显示识别画面，按q退出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-25" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
