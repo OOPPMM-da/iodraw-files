@@ -55,8 +55,14 @@
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-15" value="5帧滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0B4PVKXgRsFhbuPMbvrk-17" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0B4PVKXgRsFhbuPMbvrk-17" target="0B4PVKXgRsFhbuPMbvrk-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-17" value="判断结果是否稳定1秒" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-19" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
