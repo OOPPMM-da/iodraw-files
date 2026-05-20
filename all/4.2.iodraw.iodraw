@@ -16,8 +16,8 @@
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-2" value="初始化串口COM8&lt;div&gt;波特率9600&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0B4PVKXgRsFhbuPMbvrk-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-4" value="初始化MediaPipe&lt;div&gt;Handsmax_num_hands=1，检测阈值0&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
