@@ -70,8 +70,8 @@
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-21" value="millis非塞计时到达时间后写90停止" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OavSpFnUl7ZkU5SKVaGW-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="610" width="80" height="80" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-25" value="返回主循环检查是否有新的状态输入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="585" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
