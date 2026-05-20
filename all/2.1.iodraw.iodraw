@@ -22,8 +22,14 @@
         <mxCell id="1nyTpWx8jkkHos1PNWOi-11" value="USB摄像头采集图像" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-13" value="Python上位机程序处理0pencv读职视频帧、IediaPipe检测关键点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1nyTpWx8jkkHos1PNWOi-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1nyTpWx8jkkHos1PNWOi-13" target="1nyTpWx8jkkHos1PNWOi-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nyTpWx8jkkHos1PNWOi-13" value="Python上位机程序处理OpenCV读取视频帧、MediaPipe检测关键点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="430" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nyTpWx8jkkHos1PNWOi-15" value="数字手势识别算法角度判断、规则匹配、滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
