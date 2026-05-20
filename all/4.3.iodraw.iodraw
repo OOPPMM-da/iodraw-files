@@ -8,31 +8,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-2" target="OavSpFnUl7ZkU5SKVaGW-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-2" value="初始化串口9600" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-4" target="OavSpFnUl7ZkU5SKVaGW-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-4" value="五个舵机attach绑定D3/D2/D5/D8/D6" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="494" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-6" target="OavSpFnUl7ZkU5SKVaGW-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-6" value="舵机写入90，进入停止状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="494" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OavSpFnUl7ZkU5SKVaGW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-8" target="OavSpFnUl7ZkU5SKVaGW-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="240" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-8" value="初始化Finger结构体moving=false,waiting=false" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="474" y="430" width="160" height="60" as="geometry" />
+          <mxGeometry x="220" y="1030" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-10" target="OavSpFnUl7ZkU5SKVaGW-12">
           <mxGeometry relative="1" as="geometry" />
