@@ -28,8 +28,8 @@
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-6" value="舵机写入90，进入停止状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OavSpFnUl7ZkU5SKVaGW-8" value="初始化Finger结构体moving-false,waiting-false" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-8" value="初始化Finger结构体moving=false,waiting=false" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="580" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
