@@ -43,11 +43,6 @@
         <mxCell id="1nyTpWx8jkkHos1PNWOi-21" value="五路PWM舵机驱动拇指/食指/中指/无名指/小指" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="500" y="215" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" parent="1" source="1nyTpWx8jkkHos1PNWOi-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="375" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1nyTpWx8jkkHos1PNWOi-23" value="仿生机械手动作复现" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="520" y="295" width="120" height="60" as="geometry" />
         </mxCell>
@@ -63,8 +58,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vlsgeBi6FOrWyQFG9U_Z-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="559" y="349" width="44" height="33" as="geometry" />
+        <mxCell id="vlsgeBi6FOrWyQFG9U_Z-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vlsgeBi6FOrWyQFG9U_Z-2" target="1nyTpWx8jkkHos1PNWOi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlsgeBi6FOrWyQFG9U_Z-2" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="154" y="50" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
