@@ -67,14 +67,13 @@
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-21" value="串口发送控制指令" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="490" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0B4PVKXgRsFhbuPMbvrk-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" parent="1" source="0B4PVKXgRsFhbuPMbvrk-23" target="0B4PVKXgRsFhbuPMbvrk-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" parent="1" source="0B4PVKXgRsFhbuPMbvrk-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-23" value="显示识别画面，按q退出" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="490" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0B4PVKXgRsFhbuPMbvrk-25" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="490" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=13;" parent="1" source="0B4PVKXgRsFhbuPMbvrk-12" target="0B4PVKXgRsFhbuPMbvrk-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -88,8 +87,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HTiLQYawyDJeWannrKOx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HTiLQYawyDJeWannrKOx-1" target="0B4PVKXgRsFhbuPMbvrk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HTiLQYawyDJeWannrKOx-1" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="145" y="60" width="90" height="40" as="geometry" />
+          <mxGeometry x="145" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HTiLQYawyDJeWannrKOx-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="588" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
