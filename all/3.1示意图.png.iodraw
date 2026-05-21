@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-1" value="PC上位机&lt;div style=&quot;font-size: 20px;&quot;&gt;Python+OpenCV&lt;div style=&quot;font-size: 20px;&quot;&gt;MediaPipe手势识别&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="130" y="90" width="200" height="60" as="geometry" />
+          <mxGeometry x="130" y="90" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=宋体;" parent="1" source="LTsDCyZgAOoRUKbeSKd0-2" target="LTsDCyZgAOoRUKbeSKd0-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="150" y="240" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-4" value="五自由度机械手拇指/食指/中指无名指/小指" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="155" y="370" width="150" height="60" as="geometry" />
+          <mxGeometry x="155" y="370" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-6" value="拇指舵机 D3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="440" y="90" width="120" height="40" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="440" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-11" value="外部5V大电流电源VCC供电，GND共地" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="710" y="240" width="140" height="60" as="geometry" />
+          <mxGeometry x="710" y="230" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LTsDCyZgAOoRUKbeSKd0-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontFamily=宋体;" parent="1" source="LTsDCyZgAOoRUKbeSKd0-2" target="LTsDCyZgAOoRUKbeSKd0-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
