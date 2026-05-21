@@ -22,8 +22,8 @@
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-6" value="舵机写入90，&lt;div style=&quot;font-size: 20px;&quot;&gt;进入停止状态&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="100" y="610" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OavSpFnUl7ZkU5SKVaGW-8" value="初始化Finger结构体moving=false,waiting=false" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="40" y="700" width="280" height="110" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-8" value="初始化Finger结构体moving=false,&lt;div&gt;waiting=false&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="40" y="700" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-10" value="循环更新五根手指状态" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="429.5" y="184.5" width="129" height="60" as="geometry" />
