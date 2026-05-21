@@ -35,7 +35,7 @@
           <mxGeometry x="110" y="525" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-12" value="计算手指关节角度判断五指伸展状态" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="140" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="115" y="610" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="0B4PVKXgRsFhbuPMbvrk-14" target="0B4PVKXgRsFhbuPMbvrk-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-19" value="生成机械手动作只发送变化指合" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="500" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="485" y="350" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="0B4PVKXgRsFhbuPMbvrk-21" target="0B4PVKXgRsFhbuPMbvrk-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
