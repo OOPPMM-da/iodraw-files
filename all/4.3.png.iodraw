@@ -61,6 +61,9 @@
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-21" value="millis非塞计时到达时间后写90停止" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="434" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dOykctu8Dk1ubrf-V37u-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-25" target="dOykctu8Dk1ubrf-V37u-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-25" value="返回主循环检查&lt;div style=&quot;font-size: 13px;&quot;&gt;是否有新的状态输入&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="399" y="810" width="190" height="92.5" as="geometry" />
         </mxCell>
@@ -104,8 +107,14 @@
             <mxPoint x="620" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dOykctu8Dk1ubrf-V37u-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dOykctu8Dk1ubrf-V37u-2" target="OavSpFnUl7ZkU5SKVaGW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dOykctu8Dk1ubrf-V37u-2" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="195" y="340" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dOykctu8Dk1ubrf-V37u-4" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="449" y="933" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
