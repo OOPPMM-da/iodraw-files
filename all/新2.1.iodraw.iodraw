@@ -19,13 +19,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-4" value="初始化MediaPipe&lt;div style=&quot;font-size: 20px;&quot;&gt;Handsmax_num_hands=1&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;检测阈值0&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="80" y="240" width="220" height="60" as="geometry" />
+          <mxGeometry x="80" y="240" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="0B4PVKXgRsFhbuPMbvrk-6" target="0B4PVKXgRsFhbuPMbvrk-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-6" value="打开摄像头并读取视频帧" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="130" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="115" y="350" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="0B4PVKXgRsFhbuPMbvrk-8" target="0B4PVKXgRsFhbuPMbvrk-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
