@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-4" value="五个舵机attach绑定D3/D2/D5/D8/D6" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="65" y="520" width="190" height="60" as="geometry" />
+          <mxGeometry x="65" y="490" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-6" target="OavSpFnUl7ZkU5SKVaGW-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-6" value="舵机写入90，&lt;div style=&quot;font-size: 20px;&quot;&gt;进入停止状态&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="80" y="610" width="160" height="60" as="geometry" />
+          <mxGeometry x="80" y="590" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-8" value="初始化Finger结构体moving=false,&lt;div&gt;waiting=false&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="20" y="700" width="280" height="90" as="geometry" />
