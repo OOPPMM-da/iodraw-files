@@ -1,74 +1,119 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" scale="1" border="0" version="24.7.17">
-  <diagram name="第 1 页" id="FEr46REcsp4r3h4rXRFN">
-    <mxGraphModel dx="1050" dy="569" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="pjOA-57_rz6pRqt-EIdS">
+    <mxGraphModel dx="1050" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="1nyTpWx8jkkHos1PNWOi-9" target="1nyTpWx8jkkHos1PNWOi-11" edge="1">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-1" target="OavSpFnUl7ZkU5SKVaGW-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-9" value="用户数字手势输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="1nyTpWx8jkkHos1PNWOi-11" target="1nyTpWx8jkkHos1PNWOi-13" edge="1">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-2" target="OavSpFnUl7ZkU5SKVaGW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-11" value="USB摄像头采集图像" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="140" y="209" width="120" height="60" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-2" value="初始化串口9600" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="180" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="1nyTpWx8jkkHos1PNWOi-13" target="1nyTpWx8jkkHos1PNWOi-15" edge="1">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-4" target="OavSpFnUl7ZkU5SKVaGW-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-13" value="Python上位机程序处理OpenCV读取视频帧、MediaPipe检测关键点" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="90" y="297" width="220" height="72" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-4" value="五个舵机attach绑定D3/D2/D5/D8/D6" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="180" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-15" value="数字手势识别算法角度判断、规则匹配、滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="110" y="396" width="180" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="1nyTpWx8jkkHos1PNWOi-17" target="1nyTpWx8jkkHos1PNWOi-19" edge="1">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-6" target="OavSpFnUl7ZkU5SKVaGW-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-17" value="串口通信模块COM口、9600bps、发送T/I/M/R/P指令" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="451" y="33" width="180" height="77" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-6" value="舵机写入90，&lt;div&gt;进入停止状态&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="180" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="1nyTpWx8jkkHos1PNWOi-19" target="1nyTpWx8jkkHos1PNWOi-21" edge="1">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-8" value="初始化Finger结构体moving=false,waiting=false" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="120" y="690" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-10" value="循环更新五根手指状态" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="449" y="184.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-12" value="判断是否有串口数据" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="419" y="270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-14" target="OavSpFnUl7ZkU5SKVaGW-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-19" value="Arduino UNO下位机&lt;div style=&quot;font-size: 20px;&quot;&gt;指令解析与非阻塞定时控制&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="451" y="136" width="180" height="79" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-14" value="读取字符并缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="434" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="1nyTpWx8jkkHos1PNWOi-21" target="1nyTpWx8jkkHos1PNWOi-23" edge="1">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-15" target="OavSpFnUl7ZkU5SKVaGW-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-21" value="五路PWM舵机驱动拇指/食指/中指/无名指/小指" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="461" y="242" width="160" height="82" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-15" value="收到换行符后&lt;div&gt;解析指合&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="434" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vlsgeBi6FOrWyQFG9U_Z-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=宋体;" edge="1" parent="1" source="1nyTpWx8jkkHos1PNWOi-23" target="vlsgeBi6FOrWyQFG9U_Z-5">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-17" target="OavSpFnUl7ZkU5SKVaGW-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1nyTpWx8jkkHos1PNWOi-23" value="仿生机械手动作复现" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="481" y="352" width="120" height="60" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-17" value="startMove排队启动设置80ms后动间隔" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="434" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vlsgeBi6FOrWyQFG9U_Z-2" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="155" y="50" width="90" height="40" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-19" target="OavSpFnUl7ZkU5SKVaGW-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vlsgeBi6FOrWyQFG9U_Z-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=20;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=宋体;" edge="1" parent="1" source="vlsgeBi6FOrWyQFG9U_Z-2" target="1nyTpWx8jkkHos1PNWOi-9">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-19" value="beginMove开始转动设置方向和运行时间" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="434" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-21" target="OavSpFnUl7ZkU5SKVaGW-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-21" value="millis非塞计时到达时间后写90停止" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="434" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-25" target="OavSpFnUl7ZkU5SKVaGW-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-25" value="返回主循环检查&lt;div style=&quot;font-size: 13px;&quot;&gt;是否有新的状态输入&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="399" y="810" width="190" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-29" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="434" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-34" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="479" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-25" target="OavSpFnUl7ZkU5SKVaGW-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="50" as="sourcePoint" />
-            <mxPoint x="160" as="targetPoint" />
+            <mxPoint x="690" y="859.25" as="sourcePoint" />
+            <mxPoint x="725" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="856" />
+              <mxPoint x="630" y="215" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vlsgeBi6FOrWyQFG9U_Z-5" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="496" y="440" width="90" height="40" as="geometry" />
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-36" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="574" y="830" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vlsgeBi6FOrWyQFG9U_Z-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nyTpWx8jkkHos1PNWOi-15" target="1nyTpWx8jkkHos1PNWOi-17">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-8" target="OavSpFnUl7ZkU5SKVaGW-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="374" y="479" as="sourcePoint" />
-            <mxPoint x="424" y="429" as="targetPoint" />
+            <mxPoint x="330" y="810" as="sourcePoint" />
+            <mxPoint x="380" y="760" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="385" y="435" />
-              <mxPoint x="385" y="72" />
+              <mxPoint x="240" y="820" />
+              <mxPoint x="380" y="820" />
+              <mxPoint x="380" y="130" />
+              <mxPoint x="494" y="130" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-10" target="OavSpFnUl7ZkU5SKVaGW-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="290" as="sourcePoint" />
+            <mxPoint x="580" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-12" target="OavSpFnUl7ZkU5SKVaGW-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="350" as="sourcePoint" />
+            <mxPoint x="620" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
