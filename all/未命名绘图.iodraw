@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0B4PVKXgRsFhbuPMbvrk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" parent="1" target="0B4PVKXgRsFhbuPMbvrk-2" edge="1">
+        <mxCell id="0B4PVKXgRsFhbuPMbvrk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;" parent="1" source="20eKjoCtFrJgSy96p-hj-1" target="0B4PVKXgRsFhbuPMbvrk-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="110" as="sourcePoint" />
           </mxGeometry>
@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="20eKjoCtFrJgSy96p-hj-1" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="140" y="10" width="80" height="30" as="geometry" />
+          <mxGeometry x="150" y="70" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
