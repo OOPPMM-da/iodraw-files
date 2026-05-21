@@ -37,10 +37,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-10" value="MediaPipe检测手部获取21个关键点" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="120" y="530" width="110" height="40" as="geometry" />
+          <mxGeometry x="135" y="390" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-12" value="计算手指关节角度判断五指伸展状态" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="130" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0B4PVKXgRsFhbuPMbvrk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=10;" parent="1" source="0B4PVKXgRsFhbuPMbvrk-14" target="0B4PVKXgRsFhbuPMbvrk-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
