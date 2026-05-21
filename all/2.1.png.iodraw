@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1nyTpWx8jkkHos1PNWOi-11" value="USB摄像头采集图像" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1nyTpWx8jkkHos1PNWOi-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="1nyTpWx8jkkHos1PNWOi-13" target="1nyTpWx8jkkHos1PNWOi-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="90" y="289" width="220" height="72" as="geometry" />
         </mxCell>
         <mxCell id="1nyTpWx8jkkHos1PNWOi-15" value="数字手势识别算法角度判断、规则匹配、滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="110" y="385" width="180" height="77" as="geometry" />
+          <mxGeometry x="110" y="396" width="180" height="77" as="geometry" />
         </mxCell>
         <mxCell id="1nyTpWx8jkkHos1PNWOi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" parent="1" source="1nyTpWx8jkkHos1PNWOi-17" target="1nyTpWx8jkkHos1PNWOi-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
