@@ -95,6 +95,12 @@
         <mxCell id="20eKjoCtFrJgSy96p-hj-1" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="145" y="70" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="20eKjoCtFrJgSy96p-hj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="20eKjoCtFrJgSy96p-hj-3" target="0B4PVKXgRsFhbuPMbvrk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20eKjoCtFrJgSy96p-hj-3" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="640" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
