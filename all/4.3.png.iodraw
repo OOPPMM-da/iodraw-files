@@ -23,7 +23,7 @@
           <mxGeometry x="100" y="610" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-8" value="初始化Finger结构体moving=false,waiting=false" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="40" y="700" width="280" height="60" as="geometry" />
+          <mxGeometry x="40" y="700" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-10" value="循环更新五根手指状态" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="429.5" y="184.5" width="129" height="60" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="480" y="880" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-36" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="635.25" y="860" width="60" height="30" as="geometry" />
+          <mxGeometry x="630" y="780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=20;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-10" target="OavSpFnUl7ZkU5SKVaGW-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
