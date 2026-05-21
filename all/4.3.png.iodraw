@@ -47,25 +47,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-17" value="startMove排队启动设置80ms后动间隔" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="407" y="540" width="174" height="60" as="geometry" />
+          <mxGeometry x="407" y="500" width="174" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-19" target="OavSpFnUl7ZkU5SKVaGW-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-19" value="beginMove开始转动设置方向和运行时间" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="402" y="630" width="184" height="60" as="geometry" />
+          <mxGeometry x="403" y="580" width="184" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-21" target="OavSpFnUl7ZkU5SKVaGW-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-21" value="millis非塞计时到达时间后写90停止" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="412" y="720" width="164" height="60" as="geometry" />
+          <mxGeometry x="414" y="660" width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dOykctu8Dk1ubrf-V37u-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="OavSpFnUl7ZkU5SKVaGW-25" target="dOykctu8Dk1ubrf-V37u-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-25" value="返回主循环检查&lt;div style=&quot;font-size: 20px;&quot;&gt;是否有新的状态输入&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="354.75" y="820" width="280.5" height="140" as="geometry" />
+          <mxGeometry x="354.75" y="740" width="280.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-34" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="490" y="960" width="60" height="30" as="geometry" />
