@@ -7,7 +7,7 @@
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=宋体;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-29" target="Ta22WeZ79fYWP4gWOCyl-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ta22WeZ79fYWP4gWOCyl-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;PC&lt;/font&gt;上位机&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Python+OpenCV&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;MediaPipe手势识别&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;PC&lt;/font&gt;上位机&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Python+OpenCV&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;MediaPipe&lt;/font&gt;手势识别&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="130" y="90" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=宋体;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-31" target="Ta22WeZ79fYWP4gWOCyl-32">
