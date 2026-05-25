@@ -4,6 +4,73 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-53" target="Ta22WeZ79fYWP4gWOCyl-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-53" value="用户数字手势输入" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-55" target="Ta22WeZ79fYWP4gWOCyl-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-55" value="USB摄像头采集图像" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="140" y="209" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-57" target="Ta22WeZ79fYWP4gWOCyl-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-57" value="Python上位机程序处理OpenCV读取视频帧、MediaPipe检测关键点" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="90" y="297" width="220" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-58" value="数字手势识别算法角度判断、规则匹配、滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="110" y="396" width="180" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-60" target="Ta22WeZ79fYWP4gWOCyl-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-60" value="串口通信模块COM口、9600bps、发送T/I/M/R/P指令" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="451" y="33" width="180" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-62" target="Ta22WeZ79fYWP4gWOCyl-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-62" value="Arduino UNO下位机&lt;div style=&quot;font-size: 20px;&quot;&gt;指令解析与非阻塞定时控制&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="451" y="136" width="180" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-64" target="Ta22WeZ79fYWP4gWOCyl-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-64" value="五路PWM舵机驱动拇指/食指/中指/无名指/小指" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="461" y="242" width="160" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=宋体;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-66" target="Ta22WeZ79fYWP4gWOCyl-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-66" value="仿生机械手动作复现" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="481" y="352" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-67" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="155" y="50" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=20;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=宋体;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-67" target="Ta22WeZ79fYWP4gWOCyl-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="50" as="sourcePoint" />
+            <mxPoint x="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-69" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="496" y="440" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-58" target="Ta22WeZ79fYWP4gWOCyl-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374" y="479" as="sourcePoint" />
+            <mxPoint x="424" y="429" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="385" y="435" />
+              <mxPoint x="385" y="72" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
