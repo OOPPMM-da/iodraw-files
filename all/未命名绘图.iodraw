@@ -7,7 +7,7 @@
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-2" target="Ta22WeZ79fYWP4gWOCyl-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ta22WeZ79fYWP4gWOCyl-2" value="初始化串口COM8&lt;div style=&quot;font-size: 20px;&quot;&gt;波特率9600&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-2" value="初始化串口&lt;font face=&quot;Times New Roman&quot;&gt;COM8&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;波特率&lt;font face=&quot;Times New Roman&quot;&gt;9600&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-4" target="Ta22WeZ79fYWP4gWOCyl-6">
