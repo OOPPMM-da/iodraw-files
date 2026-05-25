@@ -22,7 +22,7 @@
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-6" value="舵机写入&lt;font face=&quot;Times New Roman&quot;&gt;90&lt;/font&gt;，&lt;div style=&quot;font-size: 20px;&quot;&gt;进入停止状态&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="80" y="590" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OavSpFnUl7ZkU5SKVaGW-8" value="初始化&lt;font face=&quot;Times New Roman&quot;&gt;Finger&lt;/font&gt;结构体&lt;font face=&quot;Times New Roman&quot;&gt;moving=false,&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;A1VKzkgusbbMtYagsdAB&quot;&gt;waiting=false&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-8" value="初始化&lt;font face=&quot;Times New Roman&quot;&gt;Finger&lt;/font&gt;结构体&lt;font face=&quot;Times New Roman&quot;&gt;moving=false,&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;waiting=false&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="20" y="700" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-10" value="循环更新五根手指状态" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
