@@ -25,7 +25,7 @@
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-8" target="Ta22WeZ79fYWP4gWOCyl-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ta22WeZ79fYWP4gWOCyl-8" value="图像镜像翻转&lt;div style=&quot;font-size: 20px;&quot;&gt;BGR转RGB&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-8" value="图像镜像翻转&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;BGR&lt;/font&gt;转&lt;font face=&quot;Times New Roman&quot;&gt;RGB&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="125" y="430" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-10" target="Ta22WeZ79fYWP4gWOCyl-11">
