@@ -19,7 +19,7 @@
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-57" target="Ta22WeZ79fYWP4gWOCyl-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ta22WeZ79fYWP4gWOCyl-57" value="Python上位机程序处理OpenCV读取视频帧、MediaPipe检测关键点" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-57" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;上位机程序处理&lt;font face=&quot;Times New Roman&quot;&gt;OpenCV&lt;/font&gt;读取视频帧、&lt;font face=&quot;Times New Roman&quot;&gt;MediaPipe&lt;/font&gt;检测关键点" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="90" y="297" width="220" height="72" as="geometry" />
         </mxCell>
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-58" value="数字手势识别算法角度判断、规则匹配、滑动窗口滤波" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
