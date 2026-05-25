@@ -13,7 +13,7 @@
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=宋体;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-31" target="Ta22WeZ79fYWP4gWOCyl-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ta22WeZ79fYWP4gWOCyl-31" value="Arduino UNo串口接收与PWM输出" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;Arduino UNO&lt;/font&gt;串口接收与&lt;font face=&quot;Times New Roman&quot;&gt;PWM&lt;/font&gt;输出" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-32" value="五自由度机械手拇指/食指/中指无名指/小指" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
