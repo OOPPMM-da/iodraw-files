@@ -28,7 +28,7 @@
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-60" target="Ta22WeZ79fYWP4gWOCyl-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ta22WeZ79fYWP4gWOCyl-60" value="串口通信模块COM口、9600bps、发送T/I/M/R/P指令" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-60" value="串口通信模块&lt;font face=&quot;Times New Roman&quot;&gt;COM&lt;/font&gt;口、&lt;font face=&quot;Times New Roman&quot;&gt;9600bps&lt;/font&gt;、发送&lt;font face=&quot;Times New Roman&quot;&gt;T/I/M/R/P&lt;/font&gt;指令" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="451" y="33" width="180" height="77" as="geometry" />
         </mxCell>
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-62" target="Ta22WeZ79fYWP4gWOCyl-64">
