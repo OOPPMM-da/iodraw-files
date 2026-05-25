@@ -31,11 +31,11 @@
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-36" value="无名指舵机 &lt;font face=&quot;Times New Roman&quot;&gt;D8&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="425" y="330" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ta22WeZ79fYWP4gWOCyl-37" value="小指舵机 D6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-37" value="小指舵机 &lt;font face=&quot;Times New Roman&quot;&gt;D6&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ta22WeZ79fYWP4gWOCyl-38" value="外部5V大电流电源VCC供电，GND共地" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="710" y="230" width="140" height="80" as="geometry" />
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-38" value="外部&lt;font face=&quot;Times New Roman&quot;&gt;5V&lt;/font&gt;大电流电源&lt;font face=&quot;Times New Roman&quot;&gt;VCC&lt;/font&gt;供电，&lt;font face=&quot;Times New Roman&quot;&gt;GND&lt;/font&gt;共地" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="710" y="230" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontFamily=宋体;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-31" target="Ta22WeZ79fYWP4gWOCyl-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
