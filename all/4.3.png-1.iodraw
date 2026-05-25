@@ -19,7 +19,7 @@
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=宋体;" parent="1" source="OavSpFnUl7ZkU5SKVaGW-6" target="OavSpFnUl7ZkU5SKVaGW-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OavSpFnUl7ZkU5SKVaGW-6" value="舵机写入90，&lt;div style=&quot;font-size: 20px;&quot;&gt;进入停止状态&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="OavSpFnUl7ZkU5SKVaGW-6" value="舵机写入&lt;font face=&quot;Times New Roman&quot;&gt;90&lt;/font&gt;，&lt;div style=&quot;font-size: 20px;&quot;&gt;进入停止状态&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="80" y="590" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OavSpFnUl7ZkU5SKVaGW-8" value="初始化Finger结构体moving=false,&lt;div&gt;waiting=false&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;fontFamily=宋体;" parent="1" vertex="1">
