@@ -31,7 +31,7 @@
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=20;" edge="1" parent="1" source="Ta22WeZ79fYWP4gWOCyl-10" target="Ta22WeZ79fYWP4gWOCyl-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ta22WeZ79fYWP4gWOCyl-10" value="MediaPipe检测手部获取21个关键点" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Ta22WeZ79fYWP4gWOCyl-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;MediaPipe&lt;/font&gt;检测手部获取&lt;font face=&quot;Times New Roman&quot;&gt;21&lt;/font&gt;个关键点" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="110" y="525" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ta22WeZ79fYWP4gWOCyl-11" value="计算手指关节角度判断五指伸展状态" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
